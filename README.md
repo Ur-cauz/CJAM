@@ -28,9 +28,21 @@ CJAM combines an ESP32, three NRF24L01+ modules, an OLED display, dedicated powe
 I also aimed to document everything and make it open source. I want anyone interested in electronics, PCB design, embedded systems, RF, or hardware security research to learn from it, improve it, or build their own.
 
 ---
+# >**< Showcase
 
+| PCB Front | PCB Back |
+|------------|----------|
+| <img src="/Images/pcb-front.png" width="450"> | <img src="/Images/pcb-back.png" width="450"> |
+
+| PCB Routing | 3D Case |
+|-------------|-----------|
+| <img src="/Images/pcb-routing.png" width="450"> | <img src="/Images/case-render.png" width="450"> |
+
+| Schematic |
+|----------|
+| <img src="/Images/schematic.png" width="450"> |
 # Features
-
+ 
 - ESP32 DevKit V1 (38-Pin)
 - Support for **3× NRF24L01+ Modules**
 - Dedicated **100µF + 0.1µF** decoupling capacitors for each NRF24L01
