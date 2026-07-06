@@ -213,7 +213,7 @@ See the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
-### Made with too much coffee, burnt fingers, and way too many jumper wires.
+### Coffee, Burnt fingers, Jumper wires.
 
 **— Cauz**
 
