@@ -4,7 +4,7 @@
 
 - [x] PCB Designed
 - [x] Prototype Ordered
-- [ ] Hardware Validation
+- [x] Hardware Validation
 - [ ] Firmware
 - [ ] Documentation
 
