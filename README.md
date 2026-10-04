@@ -41,6 +41,11 @@ I also aimed to document everything and make it open source. I want anyone inter
 | Schematic |
 |----------|
 | <img src="/Images/schematic.png" width="450"> |
+
+| **PROGRESS** | **PROGRESS** | **PROGRESS** |
+|------------|----------|----------|
+| <img src="/Images/1-prog-pic.png" width="350"> | <img src="/Images/2-prog-pic.png" width="350"> | <img src="/Images/3-prog-pic.png" width="350"> |
+
 # Features
  
 - ESP32 DevKit V1 (38-Pin)
